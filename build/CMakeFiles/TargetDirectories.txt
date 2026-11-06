@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/async-logger/build/CMakeFiles/logger_app.dir
+/home/ubuntu/cpp-generator/workspace/async-logger/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/async-logger/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/async-logger/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/async-logger/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+0	780	1793986584287326715	CMakeFiles/unit_tests.dir/tests/test.cpp.o	ca19bb826c90b2e
+1	817	1793986584323328014	CMakeFiles/unit_tests.dir/src/logger.cpp.o	d149174e10f501fc
+0	828	1793986584334328411	CMakeFiles/logger_app.dir/src/logger.cpp.o	f1766ee421d8074e
+0	862	1793986584368623848	CMakeFiles/logger_app.dir/src/main.cpp.o	f9a4b486416b55d7
+817	862	1793986584368611679	unit_tests	ef35e533670038a9
+862	907	1793986584413331262	logger_app	b341405519cd949a
